@@ -8,8 +8,8 @@ Instructions on how to use them in your own application are linked below.
 | Plugin | README |
 | ------
 | 1!a
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| GitHub | 2
+| 1 | 2
+| 3| 4
+| 5|6
+| 7|8
